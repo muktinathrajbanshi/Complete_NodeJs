@@ -66,8 +66,8 @@ const filePath = path.join(__dirname, fileName);
 //? newPath: New file path or name.
 //*-----------------------------------------------------------------------------------------------------*********
 
-const newUpdatedFileName = "updatedTest.txt";
-const newFilePath = path.join(__dirname, newUpdatedFileName);
-const renameFile = fs.renameSync(filePath, newFilePath);
+// const newUpdatedFileName = "updatedTest.txt";
+// const newFilePath = path.join(__dirname, newUpdatedFileName);
+// const renameFile = fs.renameSync(filePath, newFilePath);
 
-console.log(renameFile);
+// console.log(renameFile);
