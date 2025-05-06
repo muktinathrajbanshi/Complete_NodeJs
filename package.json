@@ -1,0 +1,14 @@
+{
+  "name": "completenodejs",
+  "version": "1.0.0",
+  "description": "world best node and express series by muktinath",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muktinath Rajbanshi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
