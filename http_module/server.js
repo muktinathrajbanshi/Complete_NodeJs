@@ -26,3 +26,9 @@ const PORT = 3001;
 server.listen(PORT, () => {
     console.log(`🔥 Listening on PORT ${PORT}`);
 });
+
+//* use node --watch .\server.js (step 1)
+//! this is directly refresh the http server without downloading the nodemon ok
+//* and if you already downloaded that nodemon then actually nodemon is dependency file please uninstall this
+//* by using npm uninstall nodemon
+//* afterwards use (step 1)
