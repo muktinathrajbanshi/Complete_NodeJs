@@ -14,7 +14,7 @@ const div = (a, b) => {
 const mult = (a, b) => {
     return a * b;
 };
-
+ 
 const PI = 3.214;
 
 // export default mul;
