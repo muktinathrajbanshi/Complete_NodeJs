@@ -33,6 +33,10 @@ console.log(math.PI);
 
 
 
-
+// Semantic Versioning System
+// 1.0.0
+// 1. Major Version (Breaking change, e.g. a rebrand, feature set added)
+// 0. Minor Version (Non-breaking noteworthy change, e.g. new component, updated styles)
+// 0. Patch Version (Small request or bug fix, e.g. update or edit existing elements)
 
 
