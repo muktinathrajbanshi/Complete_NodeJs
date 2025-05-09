@@ -1,15 +1,15 @@
 {
   "name": "express",
   "version": "1.0.0",
-  "description": "world best node and express series by muktinath",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Muktinath Rajbanshi",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^5.4.1"
+    "express": "^5.1.0"
   }
 }
